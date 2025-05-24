@@ -1,0 +1,6 @@
+Generate Multiple Variations per Prompt: 
+    Use different seeds or apply augmentations with imgaug or Albumentations. 
+Add Annotations: 
+    Use models like Grounding DINO + Segment Anything to generate bounding boxes or masks automatically. 
+Train-Test Split: 
+    Create synthetic datasets with class-wise folders for classification or COCO/YOLO formats for detection.

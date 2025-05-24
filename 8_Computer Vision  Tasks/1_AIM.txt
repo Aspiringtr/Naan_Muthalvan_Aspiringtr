@@ -1,0 +1,5 @@
+To Create synthetic training data for computer vision tasks using generative AI involves 
+using techniques like: 
+    Image augmentation (classical and AI-based), 
+    Procedural generation (e.g., rendering scenes), 
+    Generative models like GANs or diffusion models.

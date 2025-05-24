@@ -1,0 +1,8 @@
+copy and paste everything line by line at package installation to the command prompt and make sure its python 3.11
+
+Package inatallation:
+    pip install diffusers
+    pip install torch
+    pip install pillow
+    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+    
