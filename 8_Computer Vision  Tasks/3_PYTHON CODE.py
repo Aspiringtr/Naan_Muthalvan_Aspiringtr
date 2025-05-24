@@ -18,7 +18,7 @@ prompts = [
 ] 
 # Generate images 
 for i, prompt in enumerate(prompts): 
-    image = pipe(prompt, num_inference_steps=100, guidance_scale=10).images[0] 
+    image = pipe(prompt, num_inference_steps=30, guidance_scale=7.5).images[0] 
     filename = os.path.join(output_dir, f"synthetic_{i:03d}.png") 
     image.save(filename) 
     print(f"Saved: {filename}")
