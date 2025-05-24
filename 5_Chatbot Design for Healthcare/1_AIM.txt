@@ -1,0 +1,5 @@
+Designing an ethical chatbot for healthcare using OpenAI's tools involves ensuring the system is: 
+    Privacy-aware (compliant with HIPAA or relevant laws) 
+    Transparent (discloses it is an AI, not a medical professional) 
+    Helpful, not harmful (avoids diagnosis, offers general support) 
+    Fallback-aware (refers to a human or emergency help if needed) 

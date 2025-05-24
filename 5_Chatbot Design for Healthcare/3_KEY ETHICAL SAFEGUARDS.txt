@@ -1,0 +1,4 @@
+Emergency detection with a keyword list. 
+System prompt guardrails to prevent diagnosis/prescription. 
+Temperature control (0.5) for balanced, safe outputs. 
+Clear identity disclosure (“I am an AI assistant, not a doctor”)
