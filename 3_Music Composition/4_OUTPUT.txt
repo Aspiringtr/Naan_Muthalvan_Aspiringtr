@@ -1,0 +1,3 @@
+The model learns from synthetic notes and generates a short melody. 
+ 
+Saves it as a .mid file which you can play in any MIDI player or DAW. 

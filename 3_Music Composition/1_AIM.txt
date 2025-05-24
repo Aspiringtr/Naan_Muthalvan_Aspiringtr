@@ -1,0 +1,8 @@
+To create Python code for AI-generated music composition using generative AI techniques. 
+
+This example leverages: 
+    Music21: for handling music theory and MIDI output. 
+    TensorFlow/Keras: for training a simple neural network. 
+    NumPy: for data processing. 
+ 
+This code will create a LSTM-based sequence generator for simple melodies. 

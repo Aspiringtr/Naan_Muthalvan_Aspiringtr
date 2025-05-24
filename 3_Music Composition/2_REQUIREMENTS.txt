@@ -1,0 +1,2 @@
+Make sure to install the required libraries: 
+    pip install music21 tensorflow numpy 
