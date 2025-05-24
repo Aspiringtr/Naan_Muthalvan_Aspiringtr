@@ -1,0 +1,2 @@
+Make sure to install these first: 
+    pip install diffusers transformers accelerate torch 

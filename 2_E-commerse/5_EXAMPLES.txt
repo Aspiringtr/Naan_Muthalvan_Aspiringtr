@@ -1,0 +1,8 @@
+"minimalist running shoes, floating, shadow, isolated, white background" 
+"smartphone with case, top view, on a white table" 
+"realistic luxury wristwatch, close-up, e-commerce style" 
+Optional: Use ControlNet or Inpainting for Customization 
+For: 
+Pose control (e.g., clothing on models) 
+Background removal 
+Brand overlays
