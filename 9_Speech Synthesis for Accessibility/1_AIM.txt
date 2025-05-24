@@ -1,0 +1,3 @@
+OpenAI and other libraries to implement speech synthesis for accessibility. This will take 
+user input or text (e.g., from a webpage or app), summarize it or rephrase it using 
+OpenAI, and then convert it to speech using a text-to-speech engine like pyttsx3 or gTTS. 

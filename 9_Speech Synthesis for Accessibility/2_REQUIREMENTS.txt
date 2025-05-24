@@ -1,0 +1,4 @@
+Install the necessary libraries first: 
+    pip install openai pyttsx3 
+Alternatively, for gTTS (Google Text-to-Speech, which can save audio to a file): 
+    pip install openai gTTS playsound 
