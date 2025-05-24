@@ -1,0 +1,9 @@
+Prompt: 
+    "A skincare brand launching a new anti-aging serum" 
+Tone: 
+    "Luxury" 
+Generated Output: 
+    "Experience timeless beauty with our revolutionary anti-aging serum. Infused with 
+    clinically proven ingredients and cutting-edge AI-formulated peptides, this serum works 
+    with your skin—not against it—to restore youthful radiance. Because age is just a number, 
+    and beauty is eternal."
