@@ -1,0 +1,3 @@
+To create  a personalized product recommendation system using generative AI. This 
+version uses OpenAI’s GPT API (you can simulate locally if API access is not needed) to 
+generate tailored product recommendations based on user profiles. 
