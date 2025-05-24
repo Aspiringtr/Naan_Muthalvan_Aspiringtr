@@ -1,0 +1,6 @@
+Python example using OpenAI's GPT API to build a generative AI tool for story writing and plot generation. 
+
+Features 
+    Generate story ideas or plots. 
+    Generate full story content based on a prompt or idea. 
+    Adjustable creativity using temperature.
