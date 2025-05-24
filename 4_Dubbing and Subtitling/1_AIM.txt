@@ -1,0 +1,9 @@
+Python script using OpenAI tools (like Whisper for transcription and translation) and 
+
+moviepy for editing video. This code does the following:  
+    Transcribes the original video audio using Whisper. 
+    Translates the transcript (optional). 
+    Adds subtitles to the video. 
+    
+Optionally generates dubbed audio using a TTS model (e.g., OpenAI's TTS, ElevenLabs, 
+or Coqui).

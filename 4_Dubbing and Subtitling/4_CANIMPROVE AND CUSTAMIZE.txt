@@ -1,0 +1,4 @@
+Translation: Use OpenAI's GPT-4 or DeepL API for multilingual translation. 
+Advanced TTS: Replace gTTS with more natural TTS (OpenAI’s new TTS or ElevenLabs). 
+SRT File Export: Save transcript as an .srt file for better control. 
+Speaker Diarization: Use tools like PyAnnote or AssemblyAI for multi-speaker transcripts.
