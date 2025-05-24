@@ -1,0 +1,4 @@
+To create a predictive text generation system using OpenAI's API in Python, you can use 
+the openai Python library. Below is a sample script that demonstrates how to set up 
+predictive text generation for a custom application, such as autocompletion in a chat app 
+or email draft helper.

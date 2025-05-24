@@ -1,0 +1,4 @@
+Install the OpenAI library: 
+    pip install openai 
+Set up your OpenAI API key securely in your environment: 
+    export OPENAI_API_KEY="your-api-key-here"
