@@ -13,3 +13,6 @@ This project is designed to interact with OpenAI's models while also allowing ex
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-repo.git
+2. Packages:
+   ```sh
+   pip install -r requirements.txt
