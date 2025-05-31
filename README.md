@@ -12,7 +12,7 @@ This project is designed to interact with OpenAI's models while also allowing ex
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/Aspiringtr/Naan_Muthalvan_Aspiringtr.git
 2. Packages:
    ```sh
    pip install -r requirements.txt
