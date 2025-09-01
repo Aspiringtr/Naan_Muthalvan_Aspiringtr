@@ -16,5 +16,3 @@ This project is designed to interact with OpenAI's models while also allowing ex
 2. Packages:
    ```sh
    pip install -r requirements.txt
-
-https://www.canva.com/design/DAGwh7HXXQU/1C9RVxDAUA8g5Qs1Xu2oYQ/edit?utm_content=DAGwh7HXXQU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
